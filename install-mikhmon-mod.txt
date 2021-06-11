@@ -1,7 +1,0 @@
-#bin/bash
-pkg install git php -y
-git clone https://github.com/adi-it-bprs/mikhmonv3.git
-chmod +x start-mikhmon
-chmod +x update-mikhmon
-chmod +x remove-mikhmon
-./start-mikhmon
